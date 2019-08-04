@@ -24,5 +24,15 @@ export const quiz =  {
       "correctAnswer": "1",
       "point" : "50"
     }
-  ]
+  ],
+  "appLocale": {
+    "landingHeaderText": "<questionLength> Pertanyaan",
+    "question": "Question",
+    "startQuizBtn": "Start Quiz",
+    "resultFilterAll": "All",
+    "resultFilterCorrect": "Correct",
+    "resultFilterIncorrect": "Incorrect",
+    "nextQuestionBtn": "Next",
+    "resultPageHeaderText": "You have completed the quiz. You got <correctIndexLength> out of <questionLength> questions."
+  } 
 }
